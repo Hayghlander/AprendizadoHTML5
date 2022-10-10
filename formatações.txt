@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+ 
+    <head>
+        <title>Pratas de Helena</title>
+        <meta charset="utf-8">  
+    </head>
+
+    <body>
+
+        Esse é um texto <strong> negrito </strong>
+        <br>
+        Esse é um texto <em> Itálico </em><br>
+        Esse é um texto <u> underline </u><br>
+        Esse é um texto <strike> errado </strike><br>
+
+    </body>
+    
+</html>

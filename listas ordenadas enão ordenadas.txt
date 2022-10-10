@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+ 
+    <head>
+        <title>Pratas de Helena</title>
+        <meta charset="utf-8">  
+    </head>
+
+    <body>
+
+        <h2>Mapa do site </h2>
+        <!-- Lista não ordenada: circle, square,disc-->
+
+        <ul type="disc">
+            <li> Home </li>
+            <li> Quem somos</li>
+            <li> Contato </li>
+        </ul>
+
+        <h2> Perguntas </h2>
+        <!-- Lista ordenada:1, a, a, i, I-->
+
+        <ol type="A">
+           <li> anél </li> 
+           <li> corrente</li> 
+           <li> Bracelete</li> 
+           <li> Pulseira </li> 
+           <li> Prata 925 </li> 
+           <li> Ouro </li> 
+           <li> Diamantes </li> 
+
+        </ol>
+
+
+    </body>
+    </html>

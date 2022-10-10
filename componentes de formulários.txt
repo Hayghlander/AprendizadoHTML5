@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+ 
+    <head>
+        <title>Pratas de Helena</title>
+        <meta charset="utf-8">  
+    </head>
+
+    <body>
+
+        <h2> Login </h2>
+        <form> 
+
+            Login:<br>
+            <input type="text" name="Login"><br>
+
+            Senha: <br>
+            <input type="password" name="senha"><br>
+
+            <input type="submit" value="logar"> <br>
+
+        <h2> Cadastre-se </h2>
+             
+        <form>
+            Login: <br>
+
+            <input type="radio" name="sexo" value="M">
+            Masculino <br>
+
+            <input type="radio" name="sexo" value="F">
+            Feminino <br><br>
+
+            Interesses<br>
+            <input type="checkbox" name="interesses"> Futebol <br>
+            <input type="checkbox" name="interesses"> Cursos <br>
+            <input type="checkbox" name="interesses"> Moda <br>
+
+            Estado<br>
+            <select name="estado">
+                <option value="DF">DF</option>
+                <option value="RJ">RJ</option>
+                <option value="RS">RS</option>
+                <option value="GO">GO</option>
+            </select>
+
+            Observações: <br>
+            <textarea></textarea><br>
+            <input type="submit" value="Cadastrar">
+        
+        </form>
+    </body
+
+</html>
